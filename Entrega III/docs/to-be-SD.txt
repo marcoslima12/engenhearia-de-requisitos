@@ -410,7 +410,7 @@
       "text": "devolver item",
       "type": "istar.Goal",
       "x": 1012,
-      "y": 1144,
+      "y": 1143,
       "customProperties": {
         "Description": ""
       },
@@ -589,7 +589,7 @@
       "id": "a6ffb4de-39c6-429f-abe9-992150fe17d5",
       "text": "Facilitar o encontro de itens perdidos",
       "type": "istar.Goal",
-      "x": 241,
+      "x": 240,
       "y": 492,
       "customProperties": {
         "Description": ""
@@ -1205,13 +1205,13 @@
       "height": 63.82325744628906
     },
     "3f190e94-c63d-4413-858d-0264df2ceaf2": {
-      "backgroundColor": "#FA8722"
+      "backgroundColor": "#FAA248"
     },
     "9edbc12e-468f-489c-9fda-4026a2832018": {
       "backgroundColor": "#FFEE4C"
     },
     "a708004a-ce53-4fc3-9049-4cb555a51566": {
-      "backgroundColor": "#906EFA"
+      "backgroundColor": "#CE93FA"
     },
     "14b682e1-7d17-41fc-80bd-76c72cc59f3d": {
       "backgroundColor": "#79E9FA",
@@ -1219,7 +1219,7 @@
       "height": 69.82374572753906
     },
     "e6974188-f9cc-4195-b7e7-0968e14c3fc5": {
-      "backgroundColor": "#906EFA"
+      "backgroundColor": "#CE93FA"
     },
     "1bd93e5d-be80-4d3e-aa27-f506fd57ddaa": {
       "backgroundColor": "#FFEE4C"
@@ -1230,7 +1230,7 @@
       "height": 69.32374572753906
     },
     "e16cabc1-0c68-4564-8b43-ee03d5245eed": {
-      "backgroundColor": "#906EFA"
+      "backgroundColor": "#CE93FA"
     },
     "730daba0-4690-484a-a47d-581059312b50": {
       "backgroundColor": "#FFEE4C"
@@ -1312,7 +1312,7 @@
   },
   "tool": "pistar.2.1.0",
   "istar": "2.0",
-  "saveDate": "Wed, 29 Nov 2023 14:09:11 GMT",
+  "saveDate": "Wed, 29 Nov 2023 14:22:05 GMT",
   "diagram": {
     "width": 5072,
     "height": 1825,
